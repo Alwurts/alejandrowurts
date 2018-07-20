@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alejandro Wurts Santos"
+title                    : "Alejandro Wurts"
 title_separator          : "-"
-name                     : "Alejandro Wurts"
+name                     : "Alejandro Wurts Santos"
 description              : "Projects around the topic of Arduino, Robots and Making in general."
 url                      : "https://alejandrowurts.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alejandro Wurts"
+  name             : "Alejandro Wurts Santos"
   avatar           : "/assets/images/profile-user.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Mechatronics engineer with a passion for Innovation."
   location         : "Puebla, México"
