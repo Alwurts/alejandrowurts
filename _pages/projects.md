@@ -1,0 +1,8 @@
+---
+type: pages
+layout: single
+title: Projects
+permalink: /projects/
+---
+
+Project development around the topics of Making, Arduino, CAD and Electronics in general
