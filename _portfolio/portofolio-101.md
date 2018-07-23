@@ -1,6 +1,6 @@
 ---
 layout: single
-title: First post on the Projects category
+title: Portfolio collection post
 ---
 
-Try of categoria using portafolios example
+Try of collections using portafolios example
