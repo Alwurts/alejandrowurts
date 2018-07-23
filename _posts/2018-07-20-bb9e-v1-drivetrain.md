@@ -1,6 +1,6 @@
 ---
 layout: single
-title: BB9E V1 
+title: BB9E V1 Drivetrain
 categories: projects
 tags: bb9e
 header:
@@ -10,20 +10,10 @@ header:
 excerpt: BB9E Robot / Design and built from scratch by Alwurts
 author_profile: false
 ---
-BB9E Version 1
+BB9E V1 Drivetrain System
 ===========
 
-The idea of this project is to build a 1/3rd scale BB8 like droid, in order to achieve this some investigation had to come in hand. Different topics where researched like Drive System, Head Movement Mechanism, Motors and Electronics control.
-
-A big source of knowledge when it comes to building BB8 Droids is the bb8builders.club where you can find different life sized builds of BB8 and also different versions like BB9E.
-
-The project was divided in 3 main sections 
-
--	Analysis of existing BB8 robots and mechanisms types
--	Drive mechanism 
--	Electronics controls
--	Software controls
-
+This post is the first entry in my pursuit to build a 1/3rd scale functional BB9E droid. 
 
 Dimensions analysis
 --------
@@ -46,7 +36,7 @@ ADD PICTURES OF DRIVE SYSTEM FROM RED CARPET
 
 
 
-Drive system development
+Drivetrain System V1 Development
 ---------
 
 I decided that for my drive system I would use a simpler option which is to remove the flywheel for axis rotation, the other driving options like the pendulum rotation system would be implemented as well as the Head movement mechanism; My implementation of the drive systems produces a non-holonomic movement that coupled with a software controller allows the robot to move around pretty easily.
@@ -62,7 +52,7 @@ In this section we will take a look at the mechanical part of the design; The co
 
 For the CAD design I used Fusion 360 which is a tool I'm comfortable with using and offers some great tools for quick design.
 
-Drive mechanism V1.1
+Drivetrain V1.1
 -------
 
 The first initial design consisted of a pendulum with a central axis movement, in which the head mechanism would be mounted; I decided to discard this design since it didn't leave much room for electronic parts and the angle of the pendulum was restricted. The pictures of my initial design can be found in the next pictures.
@@ -72,7 +62,7 @@ ADD PICTURES OF V1.1
 {:/comment}
 
 
-Drive mechanism V1.2
+Drivetrain V1.2
 -------
 
 The main design changes to be made taking into consideration the initial CAD prototype were the next ones.
@@ -91,7 +81,7 @@ ADD PICTURES OF V1.2
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/body-1.1.jpg){: .align-center}
 
 
-Head V1.1
+Head / Dome V1.1
 --------
 
 The head movement mechanism is still in its development stage the proposed movement is a free movement in the X,Y region with a rotational movement around the Z axis. The head mechanism was mainly based on the one that some joysticks use of course heavily adapted for my needs.
@@ -103,5 +93,8 @@ The movement in X and Y has  tested and works fine, however I still need to desi
 The inside of the head will also contain electronic components which will give a better look to the robot such as RGB light and a speaker, more on that on the electronics section.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/head-render.png){: .align-center}
+
+Video of Drivetrain test
+----------
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QYErT10RhTw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
