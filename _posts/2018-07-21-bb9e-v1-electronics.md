@@ -83,9 +83,13 @@ For this iteration of the board I decided to mount the HC-06 directly to the PCB
 
 After several tries and a lot of patience I was able to get the next result.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/pcb-v2-1.jpg){: .align-center}
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/pcb-v2-2.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/pcb-v1.2-1.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/pcb-v1.2-3.jpeg){: .align-center}
 
+And whit all the components mounted it looks something like this, pretty neat for a diy board; In the second picture the PCB is located in top of the battery pack, connected and running from it.
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/pcb-v1.2-4.jpeg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/pcb-v1.2-5.jpeg){: .align-center}
 Battery 
 ======
 
