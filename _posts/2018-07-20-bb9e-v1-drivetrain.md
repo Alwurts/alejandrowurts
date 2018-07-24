@@ -40,6 +40,7 @@ gallery-CAD-v1.2:
     image_path: /assets/images/bb9e/v1/body-v1.2-6.png
     alt: "placeholder image 6"
     title: "Render of V1.2 CAD Design."
+    
 gallery-assembly-v1.2:
   - url: /assets/images/bb9e/v1/body-v1.2-assembly-1.jpg
     image_path: /assets/images/bb9e/v1/body-v1.2-assembly-1.jpg

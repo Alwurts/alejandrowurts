@@ -62,9 +62,7 @@ For the V1.1 implementation of my electronics a perforated breadboard was used; 
 
 
  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/pcb-v1-1.jpg){: .align-center}
-<figure class="align-center">
-  <figcaption>Photo from Unsplash.</figcaption>
-</figure>
+
  ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/pcb-v1-2.jpg){: .align-center}
 
  
