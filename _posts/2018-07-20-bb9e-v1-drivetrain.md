@@ -64,11 +64,6 @@ Dimensions and existing builds analysis
 --------
 Official dimensions haven't been realized, but thankfully the community has quickly risen up and provided us with the dimensions. This have been obtained by measuring pictures from the BB8 in the red carpet.
 
-
-<figure style="width: 300px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/bb8-dimensions.png" alt="">
-  <figcaption>Real scale dimension of BB8 droid.</figcaption>
-</figure> 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/bb8-dimensions.png){: .align-center}
 
 For my droid i wanted to mantain the size small so it was easy to work with and build i finally decided for a sphere size of 200m.
@@ -84,11 +79,6 @@ The last part is the Head movement mechanism which is especially important since
 ADD PICTURES OF DRIVE SYSTEM FROM RED CARPET
 {:/comment}
 
-
-<figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/redcarpet-drivetrain.jpg" alt="">
-  <figcaption>Drivetrain of the BB8 droid that appeared in the Oscars red.</figcaption>
-</figure> 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/redcarpet-drivetrain.jpg){: .align-center}
 
 Drivetrain System V1 Initial toughts
@@ -115,10 +105,7 @@ The first initial design consisted of a pendulum with a central axis movement, i
 {::comment}
 ADD PICTURES OF V1.1
 {:/comment}
-<figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/body-v1.1-1.png" alt="">
-  <figcaption>Render of V1.1 CAD Design.</figcaption>
-</figure> 
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/body-v1.1-1.png){: .align-center}
 
 
@@ -145,10 +132,6 @@ For the head / dome movement I was constrained by having already a servo motor i
 
 As for the actual mechanism used to move the head I took some inspiration from the analog joysticks and how they can rotate 2 axis at the same time; For my build I created a custom version of it and added it to the body of my droid, the servos took the job of actuating the head movement.
 
-<figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/head-mechanism.png" alt="">
-  <figcaption>Head / Dome Movement mechanism.</figcaption>
-</figure> 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/head-mechanism.png){: .align-center}
 
 In the above picture you can see a render of the final version of the mechanism where the head magnets will be located at the top of the shaft.
@@ -161,10 +144,6 @@ As for the external part of the head such as the design, caster wheels, electron
 The inside of the head will also contain electronic components which will give a better look to the robot such as RGB light and a speaker, more on that on the electronics section.
 The following is a render of the design I made in CAD
 
-<figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/head-render.png" alt="">
-  <figcaption>Head / Dome Render in CAD.</figcaption>
-</figure> 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/head-render.png){: .align-center}
 
 3D Printing
@@ -173,18 +152,10 @@ The following is a render of the design I made in CAD
 
 The body was then manufactured in a Stratasys SE 3D printer using ABS+ White which was made available to me in my college. The next picture shows the beginning of the 3D printing process.
 
-<figure style="width: 400px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/3d-printer-running.jpg" alt="">
-  <figcaption>Start of the 3D printing process.</figcaption>
-</figure> 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/3d-printer-running.jpg){: .align-center}
 
 The Stratasys 3D printers give beautiful results and the parts came out perfect, it even uses dissolvable support which makes the process that much easier. The next picture shows som of the pieces that came out.
 
-<figure style="width: 350px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/3d-printer-parts.jpeg" alt="">
-  <figcaption>Printed parts.</figcaption>
-</figure> 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/3d-printer-parts.jpeg){: .align-center}
 
 
