@@ -69,6 +69,7 @@ Official dimensions haven't been realized, but thankfully the community has quic
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/bb8-dimensions.png" alt="">
   <figcaption>Real scale dimension of BB8 droid.</figcaption>
 </figure> 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/bb8-dimensions.png){: .align-center}
 
 For my droid i wanted to mantain the size small so it was easy to work with and build i finally decided for a sphere size of 200m.
 
@@ -83,10 +84,12 @@ The last part is the Head movement mechanism which is especially important since
 ADD PICTURES OF DRIVE SYSTEM FROM RED CARPET
 {:/comment}
 
-<figure class="align-center">
+
+<figure style="width: 400px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/redcarpet-drivetrain.jpg" alt="">
-  <figcaption>Drivetrain of the BB8 droid that appeared in the Oscars red carpet.</figcaption>
+  <figcaption>Drivetrain of the BB8 droid that appeared in the Oscars red.</figcaption>
 </figure> 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/redcarpet-drivetrain.jpg){: .align-center}
 
 Drivetrain System V1 Initial toughts
 ---------
@@ -116,6 +119,7 @@ ADD PICTURES OF V1.1
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/body-v1.1-1.png" alt="">
   <figcaption>Render of V1.1 CAD Design.</figcaption>
 </figure> 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/body-v1.1-1.png){: .align-center}
 
 
 Drivetrain V1.2 CAD
@@ -145,6 +149,7 @@ As for the actual mechanism used to move the head I took some inspiration from t
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/head-mechanism.png" alt="">
   <figcaption>Head / Dome Movement mechanism.</figcaption>
 </figure> 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/head-mechanism.png){: .align-center}
 
 In the above picture you can see a render of the final version of the mechanism where the head magnets will be located at the top of the shaft.
 
@@ -160,6 +165,7 @@ The following is a render of the design I made in CAD
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/head-render.png" alt="">
   <figcaption>Head / Dome Render in CAD.</figcaption>
 </figure> 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/head-render.png){: .align-center}
 
 3D Printing
 ------
@@ -171,6 +177,7 @@ The body was then manufactured in a Stratasys SE 3D printer using ABS+ White whi
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/3d-printer-running.jpg" alt="">
   <figcaption>Start of the 3D printing process.</figcaption>
 </figure> 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/3d-printer-running.jpg){: .align-center}
 
 The Stratasys 3D printers give beautiful results and the parts came out perfect, it even uses dissolvable support which makes the process that much easier. The next picture shows som of the pieces that came out.
 
@@ -178,6 +185,7 @@ The Stratasys 3D printers give beautiful results and the parts came out perfect,
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/3d-printer-parts.jpeg" alt="">
   <figcaption>Printed parts.</figcaption>
 </figure> 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/3d-printer-parts.jpeg){: .align-center}
 
 
 After 3D the parts where ready I started the process of assembling which turned out to be not very difficult, thanks to me thinking about it when designing.
