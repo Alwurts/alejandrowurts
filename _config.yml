@@ -22,7 +22,7 @@ name                     : "Alejandro Wurts Santos"
 description              : "Projects around the topic of Arduino, Robots and Making in general."
 url                      : "https://alejandrowurts.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Alwurts/minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/hexagon-chips.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #breadcrumbs              : true # true, false (default)
 words_per_minute         : 150
@@ -38,21 +38,21 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
+  allowedFields          : #["name", "email", "url", "message"] # ['name', 'email', 'url', 'message']
   branch                 : "master" # "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  commitMessage          : #"New comment" # "New comment."
+  filename               : #"comment-{@timestamp}" # comment-{@timestamp}
+  format                 : #format: "yaml" # "yml"
+  moderation             : #false # true
+  path                   : #"/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
+  requiredFields         : #["name", "email", "message"] # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : #md5 # "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : #"date" # "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : #"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
   siteKey                : "6Ld7CmYUAAAAAHks1HTyxSEinAeaJhZ_6JyVkGPG"
   secret                 : "ndWnUs2ZWr5hqFtxhOmI1HS+HTjYRivQQybRIQPsJ8x+YZULDL+NTuKsBeYK5hJbx5plxTgYfPPR4VEoqHuVjVE11pwpGVN2FUb7AaAgWMNl/Sxp8whuvuiswXffnceluzdi6u82aHkiG+50zgxm7RAsnc9lzKidrbn8UYJIQXw="
