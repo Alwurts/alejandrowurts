@@ -26,5 +26,6 @@ gem "minimal-mistakes-jekyll"
 #
 # If you have any other plugins, put them between do and end below!
 
-#group :jekyll_plugins do
-#end
+group :jekyll_plugins do
+gem 'jekyll-archives'
+end

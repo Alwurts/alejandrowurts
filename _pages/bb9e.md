@@ -2,7 +2,7 @@
 type: pages
 layout: tag
 title: BB9E Project links
-permalink: /bb9e
+permalink: /bb9e/
 taxonomy: bb9e
 entries_layout: grid
 ---
