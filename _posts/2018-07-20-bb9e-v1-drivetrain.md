@@ -83,7 +83,7 @@ The last part is the Head movement mechanism which is especially important since
 ADD PICTURES OF DRIVE SYSTEM FROM RED CARPET
 {:/comment}
 
-<figure style="width: 400px" class="align-center">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bb9e/redcarpet-drivetrain.jpg" alt="">
   <figcaption>Drivetrain of the BB8 droid that appeared in the Oscars red carpet.</figcaption>
 </figure> 
