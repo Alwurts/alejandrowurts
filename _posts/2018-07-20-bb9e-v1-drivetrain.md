@@ -169,3 +169,5 @@ Video of Drivetrain test
 The next video is of the droid doing one of it's first runs, I must say I am pretty pleased with how it move; Some improvement can be done to further stabilize the movement and they're coming on the V2 version of the drivetrain.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QYErT10RhTw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

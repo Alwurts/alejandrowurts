@@ -108,5 +108,7 @@ The proper way to attach the batteries together is using a spot welder with nick
 
 In order to make the battery pack look nicer I wrapped into the desired shape using electricians tape and proceeded to solder the leads in which I used female header as connection to the main PCB, using female headers is not a good idea as they can easily be switched around and damage the electronics but that's what I had available at the time; A proper battery connection should be applied in the next revision as well as connecting batteries using a spot welder.
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 
  
