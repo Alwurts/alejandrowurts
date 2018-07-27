@@ -243,8 +243,8 @@ tag_archive:
   path: /tags/
 jekyll-archives:
   enabled:
-    - categories
-    - tags
+    #- categories
+    #- tags
   layouts:
     category: archive-taxonomy
     tag: archive-taxonomy

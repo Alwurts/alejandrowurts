@@ -2,7 +2,7 @@
 type: pages
 layout: category
 title: Projects
-permalink: /projects/
+permalink: /categories/projects/
 taxonomy: projects
 
 
@@ -11,7 +11,7 @@ feature_rowbb9e:
     alt: "bb9e link"
     title: "BB9E Project V1"
     excerpt: '**BB9E** 1/3rd scale functional robot model / Made and deisgned from scratch with custom PCB and 3D Printed parts'
-    url: "/bb9e/"
+    url: "/tags/bb9e/"
     btn_label: "Visit the project"
     btn_class: "btn--primary"
 
