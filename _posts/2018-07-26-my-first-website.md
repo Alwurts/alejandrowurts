@@ -15,9 +15,9 @@ If you don't have much experience with web page development like I do, it can se
 
 One option was to build the website from the ground up using html and css, but through my research I came across website builders specifically Jekyll which it's a great option with a lot of themes and plug-ins  that help you make a great looking website, another popular website builder is Hugo but for some reason or another I went with Jekyll.
 
+After deciding on the website builder I researched free hosting options and got two options to choose from GitHub pages and Netlify, GitHub pages works out of the box with jekyll and it's a great option with some small limitations like not being able to use plug-ins. Netlify on the other hand has about everything you need for any static website and their free tier offers some great features, Thank you Netlify!. 
 
-After deciding on the website builder I researched free hosting options and got two options to choose from GitHub pages and Netlify, GitHub pages works out of the box with jekyll and it's a great option with some small limitations like not being able to use plug-ins. Netlify on the other hand has about everything you need for any static website and their free tier offers some great features, Thank you Netlify!; For both hosting instances the deployment files are hosted on a repository on GitHub. 
-
+For both hosting instances the deployment files are hosted on a repository on GitHub. 
 The normal work flow of updating the website is the next one:
 
 - Edit or add files in a local repository on my computer. 
@@ -34,8 +34,8 @@ Below you can find a screenshot of the home page of my website as it looks at th
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/website-screenshot.png){: .align-center}
 
-By the way I'm very happy to tell you that this whole post including editing and adding the image was done from my android phone, more on that on another blog post. 
+By the way I'm very happy to tell you that this whole post including editing and adding the image was done from my android phone, if you have ever tried to use git from a phone you know is a pain in the ass but with some compromises donde I was able to find a way, more on that on another blog post. 
 
-If you got through all this post thank you for doing so and expect more posts about things that interest me (mostly technology).
+If you got through all this post thank you for doing so and expect more posts about technology making in general as well as the ocasional short travel blog.
 
 
