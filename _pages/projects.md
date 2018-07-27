@@ -4,6 +4,7 @@ layout: category
 title: Projects
 permalink: /categories/projects/
 taxonomy: projects
+entries_layout: grid
 
 
 feature_rowbb9e:
