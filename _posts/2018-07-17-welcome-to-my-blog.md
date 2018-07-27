@@ -1,15 +1,21 @@
 ---
 layout: single
-title: First blog post
+title: First Blog post on my personal website
 categories: blogs
+header: 
+     overlay_image: /assets/images/bulb-paper.jpg
+     show_overlay_excerpt: true 
+excerpt: First blog post on www.alejandrowurts.com
+author_profile: true
 ---
-Hey this is a quick post to test the functionality of my website.
 
-I have decided to divide the posts into to main categories:
+So after sitting on the idea for a couple of months I decided to finally create my personal website.
+The main reason that was keeping me back was budget, but I found a free alternative more on that later.
 
-- Projects
-- Blogs
+I have decided to divide the website into two main categories:
 
-More to come once i'm happy with the setup of the website.
+- Projects: Where I will show and talk about electronics projects and anything maker related that I do.
+- Blogs: Just general talk in several topics such as technology, travel and anything else that comes to my mind.
 
-Until next time Bye!!
+More to come once i'm happy with the setup of the website which im currently developing with Jekyll and Netlify as hosting.
+
