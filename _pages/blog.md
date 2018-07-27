@@ -3,7 +3,7 @@ type: pages
 layout: category
 title: Blog
 author_profile: true
-permalink: /blog/
+permalink: /blogs/
 taxonomy: blogs
 ---
 

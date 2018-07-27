@@ -1,8 +1,9 @@
 ---
 type: pages
-layout: splash
+layout: category
 title: Projects
 permalink: /projects/
+taxonomy: projects
 
 
 feature_rowbb9e:
@@ -19,3 +20,6 @@ feature_rowbb9e:
 Project development around the topics of Making, Arduino, CAD and Electronics in general
 
 {% include feature_row id="feature_rowbb9e" type="center" %}
+
+Recent posts
+-----
