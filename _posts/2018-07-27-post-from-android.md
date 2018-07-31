@@ -3,8 +3,9 @@ layout: single
 title: Using Jekyll and Github from my Android Phone
 categories: blogs
 header: 
-     overlay_image: /assets/images/bulb-paper.jpg
+     overlay_image: /assets/images/teaser/desk-phone.jpg
      show_overlay_excerpt: true 
+     teaser: /assets/images/teaser/iphone.jpg
 excerpt: How I managed to be able to post to my website on the go. 
 author_profile: true
 ---

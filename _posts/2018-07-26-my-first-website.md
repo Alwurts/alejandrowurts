@@ -3,8 +3,9 @@ layout: single
 title: Creating my first website 
 categories: blogs
 header: 
-     overlay_image: /assets/images/bulb-paper.jpg
+     overlay_image: /assets/images/teaser/code-screen.jpg
      show_overlay_excerpt: true 
+     teaser: /assets/images/teaser/code-screen.jpg
 excerpt: My quest on creating my personal website alejandrowurts.com 
 author_profile: true
 ---
