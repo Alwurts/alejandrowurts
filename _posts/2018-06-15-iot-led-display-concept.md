@@ -36,7 +36,7 @@ The Matrixes should be able to be configured into a 8 x 64 format or a 16 x 32 f
 Raspberyy Pi / Server side
 ----------
 
-The brains of the IOT operation will be in the rapsberry pi using a mosquitto broker and red node in order to fulfill automation of tasks. From here you can set the alarms, information to be displayed etc.
+The brains of the IOT operation will be in the rapsberry pi using a mosquitto broker and Node red in order to fulfill automation of tasks. From here you can set the alarms, information to be displayed etc.
 
 Another part to be developed will be integration of the alarm clock into android using an existing alarm clock app or creating my own; This will allow me to create or changes the alarms easily from my phone.
 
