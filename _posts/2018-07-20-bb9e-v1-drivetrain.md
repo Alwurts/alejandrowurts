@@ -14,6 +14,7 @@ sidebar:
 toc: true
 toc_label: "Contents"
 toc_icon: "cog"
+comments: true
 
 gallery-CAD-v1.2:
   - url: /assets/images/bb9e/v1/body-v1.2-1.png

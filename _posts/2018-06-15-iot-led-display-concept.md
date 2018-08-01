@@ -9,6 +9,7 @@ header:
   teaser: /assets/images/iot-display/8x8-matrix-how.jpg
 excerpt: IOT LED Matrix Display concept
 author_profile: false
+comments: true
 ---
 
 The starting idea was to make a 8x16 LED matrix alarm clock for my bed side table, but in the process of thinking I decided I would implement IOT functions into it as well as using two 8 x 32 Matrixes.

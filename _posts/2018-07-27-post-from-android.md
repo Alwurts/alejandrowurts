@@ -8,6 +8,7 @@ header:
      teaser: /assets/images/teaser/iphone.jpg
 excerpt: How I managed to be able to post to my website on the go. 
 author_profile: true
+comments: true
 ---
 
 I have my jekyll static website hosted on Netlify with the deployment files hosted on a github repository, this makes for an easy way to add posts or pages if i have my computer with my prefered IDE (Currently Visual Studio); But what happends if and when im on the go and get a moment of enlightenment and decide to write something?, well one would think to go to the phone and simply write it on any notes app; What if i want to post it right away?, thats when it gets tricky there is no exact or for that matter nice way to do so instead you have to crawl your way through several apps which is not convinient at all nevertheless I went for it.

@@ -8,6 +8,7 @@ header:
      teaser: /assets/images/teaser/code-screen.jpg
 excerpt: My quest on creating my personal website alejandrowurts.com 
 author_profile: true
+comments: true
 ---
 
 So I recently started my personal website as a way of getting my projects out in the internet as well as doing some writing about things that interest me, when looking at the options for making a website WordPress was the most popular way to go for, but the hosting that it requires was a little out of my budget, then I came across the option of using GitHub pages as a free hosting service for static websites the only downfall is that it requires a little more technical approach to making a website but me as I like to code and learn new skills I decided to dive in. 
