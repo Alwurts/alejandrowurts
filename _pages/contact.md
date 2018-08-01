@@ -5,7 +5,7 @@ title: Contact Form
 author_profile: true
 permalink: /contact/
 ---
-If you wish to contact me you can do so by submmiting a message down here, or by sending an email to alejandro.wurtsss@udlap.mx
+If you wish to contact me you can do so by submmiting a message down here, or by sending an email to [alejandro.wurtsss@udlap.mx](mailto:alejandro.wurtsss@udlap.mx)
 
 I will get back to you as soon as possible.
 
