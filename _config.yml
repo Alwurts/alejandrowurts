@@ -89,10 +89,10 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : "Alejandro Wurts" # If the user or organization name differs from the site's name
   links:
-    - "https://twitter.com/alwurts"
+    #- "https://twitter.com/alwurts"
     - "https://instagram.com/alwurts"
     - "https://www.linkedin.com/in/alejandrowurts"
-    - "https://plus.google.com/alwurts"
+    #- "https://plus.google.com/alwurts"
     # An array of links to social media profiles
 
 # Analytics
@@ -130,7 +130,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "alwurts"
+  twitter          : #"alwurts"
   vine             :
   weibo            :
   xing             :

@@ -3,7 +3,7 @@ layout: single
 permalink: /
 classes: wide
 author_profile: true
-excerpt: "Mechatronics engineering student /  Maker"
+excerpt: "UDLAP Mechatronics Engineering Student /  Maker"
 header:
   overlay_image: /assets/images/header/desk-mac.jpg
   #caption: "Caption goes here"
