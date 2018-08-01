@@ -39,7 +39,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : #["name", "email", "url", "message"] # ['name', 'email', 'url', 'message']
-  branch                 : #"master" # "master"
+  branch                 : "master" # "master"
   commitMessage          : #"New comment" # "New comment."
   filename               : #"comment-{@timestamp}" # comment-{@timestamp}
   format                 : #format: "yaml" # "yml"
