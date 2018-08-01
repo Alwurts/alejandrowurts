@@ -22,7 +22,7 @@ name                     : "Alejandro Wurts Santos"
 description              : "Projects around the topic of Arduino, Robots and Making in general."
 url                      : "https://alejandrowurts.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Alwurts/alejandrowurts" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "alwurts/alejandrowurts" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/hexagon-chips.jpeg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 #breadcrumbs              : true # true, false (default)
 words_per_minute         : 150
