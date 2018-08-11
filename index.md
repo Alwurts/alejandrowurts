@@ -13,22 +13,22 @@ feature_row:
   - image_path: /assets/images/teaser/breadboard.jpg
     alt: "1"
     title: "Projects"
-    excerpt: "Some description."
+    excerpt: "My personal projects."
     url: "/categories/projects/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/teaser/desk-computers.jpg
     alt: "2"
     title: "Blogs"
-    excerpt: "Some description."
+    excerpt: "Blogs about travel and technology."
     url: "/categories/blogs/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/teaser/studio-mess.jpg
     alt: "3"
-    title: "About"
-    excerpt: "Some description."
-    url: "/about/"
+    title: "Curriculum"
+    excerpt: "My curriculum vitae."
+    url: "/cv/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 

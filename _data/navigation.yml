@@ -6,8 +6,8 @@ main:
      url: /categories/projects/
    - title: "Blog"
      url: /categories/blogs/
-   - title: "About"
-     url: /about/
+   - title: "Curriculum"
+     url: /cv/
    - title: "Contact"
      url: /contact/
   # - title: "Sample Posts"
