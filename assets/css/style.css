@@ -16,7 +16,7 @@ Author: themehippo.com
 
 body {
     font-family : 'Hind', sans-serif;
-    font-size   : 15px;
+    font-size   : 17px;
     line-height : 1.8em;
     color       : #3d3d50;
     font-weight : 300;
@@ -94,6 +94,7 @@ a:focus {
     }
 
 p {
+    font-size   : 15px;
     margin-bottom : 20px;
     }
 
@@ -239,7 +240,7 @@ button:focus,
     border-bottom : 1px solid #eaeaea;
     }
 
-@media (max-width : 480px) {
+@media (max-width : 200px) {
     .section-wrapper {
         padding : 30px 20px;
         }
