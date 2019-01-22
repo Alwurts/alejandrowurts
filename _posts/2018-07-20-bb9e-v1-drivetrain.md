@@ -1,6 +1,6 @@
 ---
 layout: single
-title: BB9E V1 Drivetrain
+title: BB9E V1 Project Update 1 - Drivetrain
 categories: projects
 tags: bb9e
 header:

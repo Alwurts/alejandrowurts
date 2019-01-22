@@ -25,6 +25,15 @@ feature_rowledmatrix:
     btn_label: "Visit the project"
     btn_class: "btn--primary"
 
+feature_rowIotSwitch:
+  - image_path: /assets/images/iot-switch/iot-switch.png
+    alt: "iot switch"
+    title: "IOT Switch"
+    excerpt: 'IOT Switch'
+    url: "/tags/iot-switch/"
+    btn_label: "Visit the project"
+    btn_class: "btn--primary"
+
 ---
 
 Project development around the topics of Making, Arduino, CAD and Electronics in general
@@ -32,6 +41,8 @@ Project development around the topics of Making, Arduino, CAD and Electronics in
 {% include feature_row id="feature_rowbb9e" type="center" %}
 
 {% include feature_row id="feature_rowledmatrix" type="center" %}
+
+{% include feature_row id="feature_rowIotSwitch" type="center" %}
 
 Recent posts
 -----

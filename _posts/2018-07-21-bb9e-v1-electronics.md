@@ -1,6 +1,6 @@
 ---
 layout: single
-title: BB9E V1 Electronics
+title: BB9E V1 Project Update 2 - Electronics
 categories: projects
 tags: bb9e
 header:
