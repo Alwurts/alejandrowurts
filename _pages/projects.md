@@ -10,10 +10,19 @@ entries_layout: grid
 feature_rowbb9e:
   - image_path: /assets/images/bb9e/bb9e-youtube.jpg
     alt: "bb9e link"
-    title: "BB9E Project V1"
-    excerpt: '**BB9E** 1/3rd scale functional robot model / Made and deisgned from scratch with custom PCB and 3D Printed parts'
+    title: "Robotic Sphere BB9E Project V1"
+    excerpt: '**BB9E** 1/3rd scale functional robotic sphere / Made and designed from scratch with custom PCB and 3D Printed parts'
     url: "/tags/bb9e/"
     btn_label: "Visit the project"
+    btn_class: "btn--primary"
+
+feature_rowCAD:
+  - image_path: /assets/images/CAD/CAD-screen.jpg
+    alt: "CAD link"
+    title: "CAD Designs"
+    excerpt: 'In this collections you can find CAD designs that I have made as concepts or drafts'
+    url: "/tags/CAD/"
+    btn_label: "Visit the collection"
     btn_class: "btn--primary"
 
 feature_rowledmatrix:
@@ -40,9 +49,13 @@ Project development around the topics of Making, Arduino, CAD and Electronics in
 
 {% include feature_row id="feature_rowbb9e" type="center" %}
 
-{% include feature_row id="feature_rowledmatrix" type="center" %}
+{% include feature_row id="feature_rowCAD" type="center" %}
 
 {% include feature_row id="feature_rowIotSwitch" type="center" %}
+
+{% include feature_row id="feature_rowledmatrix" type="center" %}
+
+
 
 Recent posts
 -----

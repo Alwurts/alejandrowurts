@@ -165,6 +165,15 @@ After 3D the parts where ready I started the process of assembling which turned 
 
 {% include gallery id="gallery-assembly-v1.2" class="center" caption="Assembly of 3D Printed parts" %}
 
+Final Look of V1
+----------
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/body-v1.2-assembly-5.jpg){: .align-center}
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/body-v1.2-assembly-4.jpg){: .align-center}
+
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/bb9e/v1/body-v1.2-assembly-6.jpg){: .align-center}
+
 Video of Drivetrain test
 ----------
 The next video is of the droid doing one of it's first runs, I must say I am pretty pleased with how it move; Some improvement can be done to further stabilize the movement and they're coming on the V2 version of the drivetrain.
