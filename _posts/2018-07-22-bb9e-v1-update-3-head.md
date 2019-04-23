@@ -1,6 +1,6 @@
 ---
 layout: single
-title: BB9E V1 Project Update 3 - Head / Dome
+title: Sphere Robot BB9E V1 Project - Head / Dome
 categories: projects
 tags: bb9e
 header:

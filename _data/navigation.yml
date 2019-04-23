@@ -18,7 +18,7 @@ main:
   #   url: /sitemap/
 
 bb9e:
-  - title: Robotic Sphere BB9E V1 Prototype
+  - title: Sphere Robot BB9E V1 Prototype
     children:
       - title: "Drivetrain V1"
         url: /projects/bb9e-v1-update-1-drivetrain/
@@ -36,3 +36,7 @@ bb9e:
         url: /projects/bb9e-v1-update-6-Wii-Remote/
       - title: "ESP32 and Wi-Fi UDP for Robot Communication"
         url: /projects/bb9e-v1-update-7-ESP32-Bilateral-Coms/
+  - title: Sphere Robot BB9E V2
+    children:
+      - title: "Electronics V2"
+        url: /projects/bb9e-v2-update-8-Electronics-Board-V2/

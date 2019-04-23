@@ -1,6 +1,6 @@
 ---
 layout: single
-title: BB9E V1 Project Update 2 - Electronics
+title: Sphere Robot BB9E V1 Project - V1 Electronics
 categories: projects
 tags: bb9e
 header:

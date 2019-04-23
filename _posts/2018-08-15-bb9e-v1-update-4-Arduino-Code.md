@@ -1,6 +1,6 @@
 ---
 layout: single
-title: BB9E V1 Project Update 4 - Arduino Control Software
+title: Sphere Robot BB9E V1 Project - Arduino Control Software
 categories: projects
 tags: bb9e
 header:
