@@ -34,3 +34,5 @@ bb9e:
         url: /projects/bb9e-v1-update-5-android-remote/
       - title: "Wii Nunchuck Hack!!! Making it a Remote Controller"
         url: /projects/bb9e-v1-update-6-Wii-Remote/
+      - title: "ESP32 and Wi-Fi UDP for Robot Communication"
+        url: /projects/bb9e-v1-update-7-ESP32-Bilateral-Coms/
