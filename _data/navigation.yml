@@ -18,11 +18,19 @@ main:
   #   url: /sitemap/
 
 bb9e:
-  - title: BB9E V1 Prototype
+  - title: Robotic Sphere BB9E V1 Prototype
     children:
       - title: "Drivetrain V1"
-        url: /projects/bb9e-v1-drivetrain/
+        url: /projects/bb9e-v1-update-1-drivetrain/
       - title: "Electronics V1"
-        url: /projects/bb9e-v1-electronics/
+        url: /projects/bb9e-v1-update-2-electronics/
       - title: "Head / Dome V1"
-        url: /projects/bb9e-v1-head/
+        url: /projects/bb9e-v1-update-3-head/
+      - title: "Arduino Software"
+        url: /projects/bb9e-v1-update-4-Arduino-Code/
+  - title: Robotic Sphere Remote Controllers
+    children:
+      - title: "Android Bluetooth Remote Controller"
+        url: /projects/bb9e-v1-update-5-android-remote/
+      - title: "Wii Nunchuck Hack!!! Making it a Remote Controller"
+        url: /projects/bb9e-v1-update-6-Wii-Remote/
