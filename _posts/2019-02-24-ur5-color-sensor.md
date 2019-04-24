@@ -185,4 +185,9 @@ Robo DK Simulation
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ur5/ur5-5.png){:.align-center} <center><small><i>Simulation setup for UR5 and color sensor.</i></small></center>
 
+Video of the simulation
+===============
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oK6uzF_Gx2k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
