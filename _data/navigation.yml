@@ -32,7 +32,7 @@ bb9e:
     children:
       - title: "Android Bluetooth Remote Controller"
         url: /projects/bb9e-v1-update-5-android-remote/
-      - title: "Wii Nunchuck Hack!!! Making it a Remote Controller"
+      - title: "Wii Nunchuck Remote Controller"
         url: /projects/bb9e-v1-update-6-Wii-Remote/
       - title: "ESP32 and Wi-Fi UDP for Robot Communication"
         url: /projects/bb9e-v1-update-7-ESP32-Bilateral-Coms/
@@ -40,3 +40,5 @@ bb9e:
     children:
       - title: "Electronics V2"
         url: /projects/bb9e-v2-update-8-Electronics-Board-V2/
+      - title: "Drivetrain V2"
+        url: /projects/bb9e-v2-update-9-Drivetrain-V2/

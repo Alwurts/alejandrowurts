@@ -10,7 +10,7 @@ entries_layout: grid
 feature_rowbb9e:
   - image_path: /assets/images/bb9e/bb9e-youtube.jpg
     alt: "bb9e link"
-    title: "Robotic Sphere BB9E Project V1"
+    title: "Robotic Sphere BB9E Project"
     excerpt: '**BB9E** 1/3rd scale functional robotic sphere / Made and designed from scratch with custom PCB and 3D Printed parts'
     url: "/tags/bb9e/"
     btn_label: "Visit the project"
@@ -43,6 +43,15 @@ feature_rowIotSwitch:
     btn_label: "Visit the project"
     btn_class: "btn--primary"
 
+feature_rowUR5:
+  - image_path: /assets/images/teaser/ur5-projects.png
+    alt: "ur5 robot"
+    title: "UR5 Robot Projects"
+    excerpt: 'UR5 Robot'
+    url: "/tags/ur5/"
+    btn_label: "Visit the projects"
+    btn_class: "btn--primary"
+
 ---
 
 Project development around the topics of Making, Arduino, CAD and Electronics in general
@@ -52,6 +61,8 @@ Project development around the topics of Making, Arduino, CAD and Electronics in
 {% include feature_row id="feature_rowCAD" type="center" %}
 
 {% include feature_row id="feature_rowIotSwitch" type="center" %}
+
+{% include feature_row id="feature_rowUR5" type="center" %}
 
 {% include feature_row id="feature_rowledmatrix" type="center" %}
 
