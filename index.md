@@ -5,6 +5,7 @@ classes: wide
 author_profile: true
 excerpt: "UDLAP Mechatronics Engineering Student /  Maker"
 taxonomy: projects
+
 header:
   overlay_image: /assets/images/header/desk-mac.jpg
   #caption: "Caption goes here"
