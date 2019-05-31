@@ -3,7 +3,7 @@ layout: category
 permalink: /
 classes: wide
 author_profile: true
-excerpt: "UDLAP Mechatronics Engineering Student /  Maker"
+excerpt: "Mechatronics Engineer /  Maker"
 taxonomy: projects
 
 header:
