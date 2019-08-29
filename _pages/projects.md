@@ -46,18 +46,9 @@ feature_rowIotSwitch:
 feature_rowUR5:
   - image_path: /assets/images/teaser/ur5-projects.png
     alt: "ur5 robot"
-    title: "UR5 Robot"
-    excerpt: 'Projects that utilize the UR5 Robot'
+    title: "UR5 Robot Projects"
+    excerpt: 'UR5 Robot'
     url: "/tags/ur5/"
-    btn_label: "Visit the project"
-    btn_class: "btn--primary"
-
-feature_rowEV:
-  - image_path: /assets/images/teaser/ev.png
-    alt: "Electric Vehicles"
-    title: "Electric Vehicles"
-    excerpt: 'Projects about Electric Vehicles'
-    url: "/tags/ev/"
     btn_label: "Visit the projects"
     btn_class: "btn--primary"
 
@@ -66,8 +57,6 @@ feature_rowEV:
 Project development around the topics of Making, Arduino, CAD and Electronics in general
 
 {% include feature_row id="feature_rowbb9e" type="center" %}
-
-{% include feature_row id="feature_rowEV" type="center" %}
 
 {% include feature_row id="feature_rowCAD" type="center" %}
 
