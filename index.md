@@ -7,7 +7,7 @@ excerpt: "Mechatronics Engineer /  Maker"
 taxonomy: projects
 
 header:
-  overlay_image: /assets/images/header/desk-mac.jpg
+  overlay_image: /assets/images/header/head.gif
   #caption: "Caption goes here"
   show_overlay_excerpt: true
 
