@@ -10,11 +10,6 @@ header:
 excerpt: 3D scanning an object into a usable STL.
 author_profile: false
 comments: true
-
-toc: true
-toc_label: "Contents"
-toc_icon: "cog"
-comments: true
 ---
 Precision 3D scanning using Gom scanner
 ===============
