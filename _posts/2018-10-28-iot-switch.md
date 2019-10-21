@@ -2,7 +2,7 @@
 layout: single
 title: IOT Switch
 categories: projects
-tags: iot-switch
+tags: IOT
 header:
   overlay_image: /assets/images/header/iot-switch.png
   show_overlay_excerpt: true

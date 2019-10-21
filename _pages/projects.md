@@ -25,21 +25,13 @@ feature_rowCAD:
     btn_label: "Visit the collection"
     btn_class: "btn--primary"
 
-feature_rowledmatrix:
-  - image_path: /assets/images/iot-display/8x8-matrix-how.jpg
-    alt: "iot clock link"
-    title: "IOT LED Matrix Display"
-    excerpt: 'IOT LED matrix display with configurable size and information'
-    url: "/tags/matrix-iot/"
-    btn_label: "Visit the project"
-    btn_class: "btn--primary"
 
-feature_rowIotSwitch:
+feature_rowIot:
   - image_path: /assets/images/iot-switch/iot-switch.png
-    alt: "iot switch"
-    title: "IOT Switch"
-    excerpt: 'IOT Switch'
-    url: "/tags/iot-switch/"
+    alt: "IOT Projects"
+    title: "IOT Projects"
+    excerpt: 'IOT Projects'
+    url: "/tags/IOT/"
     btn_label: "Visit the project"
     btn_class: "btn--primary"
 
@@ -71,11 +63,10 @@ Project development around the topics of Making, Arduino, CAD and Electronics in
 
 {% include feature_row id="feature_rowCAD" type="center" %}
 
-{% include feature_row id="feature_rowIotSwitch" type="center" %}
+{% include feature_row id="feature_rowIot" type="center" %}
 
 {% include feature_row id="feature_rowUR5" type="center" %}
 
-{% include feature_row id="feature_rowledmatrix" type="center" %}
 
 
 
